@@ -2,6 +2,7 @@
 Learning  about object-oriented-programming and relational databases
 
 ## Morning Planning
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
 The first step is to take a good coffee to start a great morning.
 The next steps are keep working hard
 - [x] Check out the [github blog](https://github.blog/) for topic ideas.
